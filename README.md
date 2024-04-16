@@ -22,3 +22,8 @@ Password : 123
 ![Screenshot (261)](https://github.com/YLKD/Wallet-Q/assets/166706257/ba22e972-dfec-49a7-bcdf-a1a6d144798e)
 ### Baru
 ![Screenshot (268)](https://github.com/YLKD/Wallet-Q/assets/166706257/0b48aa56-88bc-4deb-9a78-cbf1401f7d90)
+## Tampilan Login
+### Lama
+![Screenshot (263)](https://github.com/YLKD/Wallet-Q/assets/166706257/b1974dca-e179-4154-bc9e-41931dc6b39c)
+### Baru
+![Screenshot (269)](https://github.com/YLKD/Wallet-Q/assets/166706257/7939cfa4-2118-4a3e-b726-2981200fe4fe)
