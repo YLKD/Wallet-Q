@@ -17,3 +17,8 @@ Password : 123
 ![Screenshot (260)](https://github.com/YLKD/Wallet-Q/assets/166706257/4ef141f5-0cdd-4503-bdc4-2afb319a1495)
 ### Baru
 ![Screenshot (267)](https://github.com/YLKD/Wallet-Q/assets/166706257/fff7aab7-f85d-4f03-ad2b-eb4411521fa7)
+## Tampilan Tim/Team
+### Lama
+![Screenshot (261)](https://github.com/YLKD/Wallet-Q/assets/166706257/ba22e972-dfec-49a7-bcdf-a1a6d144798e)
+### Baru
+![Screenshot (268)](https://github.com/YLKD/Wallet-Q/assets/166706257/0b48aa56-88bc-4deb-9a78-cbf1401f7d90)
