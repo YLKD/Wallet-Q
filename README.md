@@ -1,3 +1,7 @@
+# NAMA : Yoel Kamban Dali
+# NIM : 12030122140251
+# KELAS : E
+
 # Wallet-Q
 Aplikasi pencatatan keuangan harian berbasis web
 
